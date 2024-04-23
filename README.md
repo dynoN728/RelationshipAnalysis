@@ -5,8 +5,8 @@ INSTRUCTIONS:
 **EG: PIP INSTALL PANDAS**
 1. Head over to https://my.telegram.org/auth?to=apps fill the form and get your keys
 2. Create a .env file input your keys to the respective fields heres and example
-      ```TG_API_ID=1234567
-       TG_API_HASH=161gayfd4e4asd5fggasdc8ad```
+      ```TG_API_ID=1234567```
+       ```TG_API_HASH=161gayfd4e4asd5fggasdc8ad```
 
 3. Head over to **main.py** and fill in whats needed
 4. run the script and volia data should be scraped
